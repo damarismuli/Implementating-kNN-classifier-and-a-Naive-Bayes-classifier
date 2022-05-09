@@ -1,11 +1,11 @@
-Description
+##Description
 
 
 Implementating-kNN-classifier-and-a-Naive-Bayes-classifier
 
 
 
-Experimental Design
+##Experimental Design
 
 Importing Necessary Libraries
 
@@ -27,7 +27,7 @@ Conclusion and Recommendation
 
 
 
-Installation Requirements
+##Installation Requirements
 
 Google colab/jupyter notebook
 
@@ -35,20 +35,20 @@ Github
 
 
 
-Known Bugs
+##Known Bugs
 
 There are no known bugs for this project
 
 
 
 
-Technologies Used
+##Technologies Used
 
 Python
 
 
 
-Dataset
+##Dataset
 
 The dataset used can found here:
 
@@ -58,6 +58,6 @@ Second NoteBook;Implementing Naive-Bayes-classifier:https://archive.ics.uci.edu/
 
 
 
-License
+##License
 
 Copyright(c) {2022}{Damaris Muli}
